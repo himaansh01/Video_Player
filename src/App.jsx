@@ -73,7 +73,7 @@ const App = () => {
 
   const opts = {
     height: '774',
-    width: '1376',
+    width: '1338',
     playerVars: {
       autoplay: 0,
       controls: 1,
